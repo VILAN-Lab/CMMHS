@@ -7,7 +7,7 @@ This is Chinese MultiModal Hate Speech (CMMHS) dataset. We have released the tex
 
 ## CMMHS image Acquisition 
 Due to the hate speech image may raise negative influence, we only share a temporary link for downloading. 
-Please providing your following information to the author email. 
+Please providing your following information to the author email __2212401022@st.gxu.edu.cn__. 
 
 __Below are the details of your application for requesting:__
 
